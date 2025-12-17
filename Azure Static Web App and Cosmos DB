@@ -1,1 +1,6 @@
-
+Develop and deploy your fullstack web app with Azure Static Web Apps and Cosmos DB
+ - HERE APPLICATION WITH FRONTEND , A SERVERLESS BACKEND , USER AUTHENTICATION AND A DATABASE TO STORE YOU DATA.
+ - We will see how to use Cosmos DB with the MongoDB API, Azure Static Web Apps to host your client application and Azure Functions for your backend and GitHub Actions to automate your app deployment!
+ - with Azure Static Web Apps (aka SWA), developers can not only deploy frontend static apps and their serverless backends but they can also benefit from features like Custom domains, pre-prod environments, authentication providers, custom routing and more.
+ - Azure Static Web Apps relies on Azure Functions for your application backend. So, if you are developing in JavaScript, Java, Python or .NET, SWA makes it very easy to deploy your backend as well!
+ - https://github.com/themoaw/swa-workshop
